@@ -3,8 +3,6 @@
 2024-10-04 20:52:34.819049 - User j@d.com logged out.
 2024-10-05 17:26:46.434543 - User j@d.com logged in successfully.
 2024-10-05 17:59:54.956676 - User j@d.com logged in successfully.
-2024-10-05 18:00:07.543472 - Error fetching Solar System data: 'bodies'
-2024-10-05 18:00:37.261022 - Error fetching Solar System data: 404 Client Error: Not Found for url: https://api.le-systeme-solaire.net/rest/bodies/Planets
 2024-10-05 18:05:57.111677 - User j@d.com logged in successfully.
 2024-10-05 18:06:01.055003 - Fetched Solar System data from NASA API
 2024-10-05 18:07:51.876355 - User j@d.com logged in successfully.
@@ -15,3 +13,11 @@
 2024-10-05 18:12:53.701129 - User j@d.com logged in successfully.
 2024-10-05 18:12:55.671322 - Fetched NASA data successfully.
 2024-10-05 18:14:42.477298 - Password reset successful for j@d.com.
+2024-10-16 10:12:39.930840 - User j@d.com logged in successfully.
+2024-10-16 10:12:48.188388 - Fetched NASA data successfully.
+2024-10-16 10:13:00.454074 - Fetched Solar System data from NASA API
+2024-10-16 10:16:32.643429 - User j@d.com logged out.
+2024-10-16 10:24:38.136763 - User jay@gmail.com signed up successfully.
+2024-10-16 10:25:10.102539 - User jay@gmail.com logged in successfully.
+2024-10-16 10:25:11.562555 - Fetched NASA data successfully.
+2024-10-16 10:27:16.654651 - Password reset successful for jay@gmail.com.

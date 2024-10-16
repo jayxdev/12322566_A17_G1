@@ -167,6 +167,8 @@ def fetch_ssd_data():
         response = requests.get(SSD_API_URL)
         response.raise_for_status()
         data = response.json()
+        with open('ssd_data.json', 'w') as f:
+           json.dump(data["bodies"], f, indent=4)
         print("Solar System Objects:")
         count = 0
         for obj in data['bodies']:
